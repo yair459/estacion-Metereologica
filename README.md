@@ -1,3 +1,19 @@
+Datos del Estudiante
+| Apellido y Nombre | Correo electrónico | GitHub | | :Gallay | :Yair | : yatorresir@gmail.com | https://github.com/yair459
+
+Estructura del Proyecto
+analisis_ipynb/ Prototipado de datos en Google Colab.
+
+arduino_ino/ Código fuente para el Arduino UNO R3.
+
+Dashboard_pbix/ : Informes en Power BI.
+
+database_sql/ : Scripts de MySQL Workbench.
+
+docs/ : Documentación y leyes de software.
+
+python_app/ : Aplicación de escritorio (POO).
+
 ## 🛠️ Tecnologías Utilizadas
 
 En este proyecto integramos diversas herramientas distribuidas en tres áreas clave:
