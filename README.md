@@ -1,5 +1,7 @@
 Datos del Estudiante
-| Apellido y Nombre | Correo electrónico | GitHub | | :Gallay | :Yair | : yatorresir@gmail.com | https://github.com/yair459
+| Apellido y Nombre | E-mail | GitHub |
+| :Gallay Yair | :yegallay@escuelasproa.edu.ar | :https://github.com/yair459 |
+
 
 Estructura del Proyecto
 analisis_ipynb/ Prototipado de datos en Google Colab.
