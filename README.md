@@ -1,36 +1,51 @@
-Datos del Estudiante
-| Apellido y Nombre | E-mail | GitHub |
-| :Gallay Yair | :yegallay@escuelasproa.edu.ar | :https://github.com/yair459 |
+🌦️ Proyecto de Monitoreo Climático Integrado
+👤 Información del Estudiante
+[!IMPORTANT]
+Estudiante: Gallay Yair
 
+Contacto: 📧 yegallay@escuelasproa.edu.ar
 
-Estructura del Proyecto
-analisis_ipynb/ Prototipado de datos en Google Colab.
+GitHub: 🔗 github.com/yair459
 
-arduino_ino/ Código fuente para el Arduino UNO R3.
+📂 Estructura del Proyecto
+El repositorio se organiza de la siguiente manera para facilitar la navegación:
 
-Dashboard_pbix/ : Informes en Power BI.
+📂 analisis_ipynb/ : Prototipado y limpieza de datos en Google Colab.
 
-database_sql/ : Scripts de MySQL Workbench.
+📂 arduino_ino/ : Código fuente (.C++) para el microcontrolador Arduino UNO R3.
 
-docs/ : Documentación y leyes de software.
+📂 Dashboard_pbix/ : Archivos de informes y visualización en Power BI.
 
-python_app/ : Aplicación de escritorio (POO).
+📂 database_sql/ : Scripts de creación y consultas en MySQL Workbench.
 
-## 🛠️ Tecnologías Utilizadas
+📂 docs/ : Documentación técnica, marcos teóricos y leyes de software.
 
-En este proyecto integramos diversas herramientas distribuidas en tres áreas clave:
+📂 python_app/ : Aplicación de escritorio desarrollada con Programación Orientada a Objetos (POO).
 
-### 🔬 Club de Ciencias (Análisis y Datos)
-* [Google Colab](https://colab.research.google.com/) - Prototipado de datos y uso de librerías científicas.
-* [MySQL Workbench](https://www.mysql.com/products/workbench/) - Diseño y gestión de la base de datos relacional.
-* [Power BI](https://powerbi.microsoft.com/) - Creación de dashboards interactivos para la visualización del clima.
+🛠️ Tecnologías Utilizadas
+Este proyecto es una integración multidisciplinaria dividida en tres ejes fundamentales:
 
-### 🐍 Programación III (Software)
-* [Visual Studio Code](https://code.visualstudio.com/) - Entorno de desarrollo (IDE) principal.
-* [Python](https://www.python.org/) - Lenguaje de programación con enfoque en **POO** (Programación Orientada a Objetos).
-* **Librerías de Conexión**: Uso de conectores para vincular la lógica de Python con la base de datos.
+🔬 1. Club de Ciencias (Análisis y Datos)
+Análisis Predictivo: Google Colab para prototipado con librerías científicas.
 
-### 🤖 Robótica (Hardware y Simulación)
-* [Arduino IDE](https://www.arduino.cc/en/software) - Programación del microcontrolador en **C++**.
-* [Tinkercad](https://www.tinkercad.com/) - Simulación del circuito electrónico y sensores.
-* **Componentes**: Arduino UNO R3, sensores de temperatura, humedad y presión para el prototipo físico.
+Gestión de Datos: MySQL Workbench para el diseño de bases de datos relacionales.
+
+Business Intelligence: Power BI para dashboards climáticos dinámicos.
+
+🐍 2. Programación III (Software)
+Lenguaje: Python bajo paradigma POO.
+
+Entorno: Visual Studio Code como IDE principal.
+
+Integración: Uso de conectores especializados para la comunicación entre Python y MySQL.
+
+🤖 3. Robótica (Hardware y Simulación)
+Microcontrolador: Arduino IDE (C++).
+
+Simulación: Tinkercad para el testeo del circuito electrónico.
+
+Hardware:
+
+Arduino UNO R3.
+
+Sensores de temperatura, humedad y presión atmosférica.
